@@ -1,4 +1,4 @@
-# International Marriage and Divorce Landspace and Trends in Taiwan (2021-2023)
+![1](https://github.com/nicrci/int_marriage_div/assets/172574448/407a0e67-71ab-4e80-b466-1d6785304f37)# International Marriage and Divorce Landspace and Trends in Taiwan (2021-2023)
 
 ## Project Description
 
@@ -7,8 +7,8 @@ Over time, Taiwan's demographic landscape has shifted significantly with the add
 In this study, we aim to explore the evolving landscape and trends of international marriages in Taiwan post-pandemic. Specifically, our objectives are to better understand the key nationalities within International marriages in Taiwan, their marriage and divorce trends over years, and the gender dynamic within each nationality. We will incorporate the environmental and cultural factors of each nationality and consider policy contexts in our research. This study seeks to provide valuable insights for Taiwan's international marriage policy by addressing the following questions:
 
 1. What is the overall landscape of international marriages in Taiwan?
-2. What are the trends of international marriages among different nationalities in the post-pandemic years?
-3. What are the gender dynamics of international marriages between major nationalities?
+2. What are the gender dynamics of international marriages between major nationalities?
+3. What are the trends of international marriages among different nationalities in the post-pandemic years?
 
 Initially, we planned to analyze the marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform. However, this database consists of two separate monthly files for marriages and marriage terminations. Each file contains conditional data rather than personal data, with information subdivided to the le level in each city and county, as well as various nationalities with three years. This resulted in an excessively large volume of data, including many irrelevant observations. Consequently, we modified our analysis approach to focus on data cleaning and valid observations, concentrating primarily on the major nationalities.
 
@@ -98,21 +98,35 @@ we use two choropleth maps shows the average marriage rate and divorce rate by c
 
 Calculation Methods:
 
-Aggregated marriage and divorce counts and population data by city and average of three years.
-Calculated the marriage and divorce rate as a percentage of the population.
-Computed the three-year average marriage and divorce rate for each city.
-Merged the data with geographical map data of Taiwan and created choropleth maps.
+- Aggregated marriage and divorce counts and population data by city and average of three years.
+- Calculated the marriage and divorce rate as a percentage of the population.
+- Computed the three-year average marriage and divorce rate for each city.
+- Merged the data with geographical map data of Taiwan and created choropleth maps.
 
 
 ## Analysis
 
 ### 1-1 What is the overall landscape of international marriages in Taiwan?
 
+To better understand the landscape of international marriages in Taiwan, this study calculates the average population of each county and city in Taiwan from 2021 to 2023. The marriage and divorce rates over the three years are then determined based on the number of marriages and divorces among foreign nationals in each county and city. The data is presented on a map of Taiwan, allowing for a detailed examination of the geographic distribution and trends in the marriage and divorce rates of international marriages. This also helps to assess the stability of international marriages across different counties and cities. The results are illustrated in Figures 1 and 2.
 
-The map illustrates a concentration of higher marriage rates in the more modern and northern parts of Taiwan, particularly in Taipei (0.07%) and New Taipei City (0.06%). This trend is likely influenced by the higher population density and better economic conditions in these urban centers compared to rural areas like Hualien County (0.03%) and Taitung County (0.03%). Notably, Taoyuan City (0.06%) stands out as a major hub for migrant workers in Taiwan, which significantly contributes to its elevated marriage rate. Interestingly, some isolated regions in the central area like Nantou County (0.05%) also show higher marriage rates.
+![1](https://github.com/nicrci/int_marriage_div/assets/172574448/eff5d443-0eb0-4447-ac07-8c12c0791555)
+The Figures 1 is the Taiwan map that illustrates a concentration of higher marriage rates in the more modern and northern parts of Taiwan, particularly in Taipei (0.07%) and New Taipei City (0.06%). This trend is likely influenced by the higher population density and better economic conditions in these urban centers compared to rural areas like Hualien County (0.03%) and Taitung County (0.03%). Notably, Taoyuan City (0.06%) stands out as a major hub for migrant workers in Taiwan, which significantly contributes to its elevated marriage rate. Interestingly, some isolated regions in the central area like Nantou County (0.05%) also show higher marriage rates.
 
-![未命名設計](https://github.com/nicrci/int_marriage_div/assets/172574448/76270de0-933f-47e6-893a-0baf5f6fbc2f)
-Although the marriage rate map shows that marriage rates directly correlate with the population within cities, divorce rates are more varied and spread across the country. Surprisingly, the map reveals that less urban areas like Taoyuan City (0.03%) and Miaoli County (0.03%) tend to have higher divorce rates compared to more urban areas like Taipei City (0.02%). This disparity can be attributed to differences in lifestyle, economic pressures, and social dynamics in each city. In less urban areas, the economic challenges, such as lower employment opportunities and income instability, often contribute to financial stress within households, leading to higher divorce rates. Additionally, social isolation due to geographical distance and less developed social infrastructure in rural communities can result in a lack of social support networks, which are crucial for maintaining strong marital relationships. These factors collectively contribute to the higher divorce rates observed in less urbanized areas. 
+![2](https://github.com/nicrci/int_marriage_div/assets/172574448/9cc9687a-2ed5-4b91-ba09-566739ba12a9)
+Although the marriage rate map shows that marriage rates directly correlate with the population within cities, divorce rates, shown in Figures 2, are more varied and spread across the country. Surprisingly, the map reveals that less urban areas like Taoyuan City (0.03%) and Miaoli County (0.03%) tend to have higher divorce rates compared to more urban areas like Taipei City (0.02%). This disparity can be attributed to differences in lifestyle, economic pressures, and social dynamics in each city. In less urban areas, the economic challenges, such as lower employment opportunities and income instability, often contribute to financial stress within households, leading to higher divorce rates. Additionally, social isolation due to geographical distance and less developed social infrastructure in rural communities can result in a lack of social support networks, which are crucial for maintaining strong marital relationships. These factors collectively contribute to the higher divorce rates observed in less urbanized areas. 
+
+### 1-2 What is the overall landscape of international marriages in Taiwan?
+
+After understanding the geographic distribution and trends of international marriages in Taiwan, this study further examines the composition and nationality ratios within these marriages. To gain insights into the key nationalities involved in international marriages in Taiwan and to refine the research focus, we calculate the proportion of marriages and divorces for each nationality. This data is visually represented using hollow pie charts, providing an intuitive view of the nationality proportions. This approach helps to better understand the key nationalities, their significance, and the stability of international marriages in Taiwan. The results are illustrated in Figures 3 and 4.
+
+![3](https://github.com/nicrci/int_marriage_div/assets/172574448/172feb76-6ba5-4d2d-be5c-d085dba1e6ea)
+Figure 3 reveals that the top six countries for marriages with Taiwanese nationals are China (1.17%), Vietnam (1.42%), Hong Kong and Macao (0.51%), the United States (0.35%), Japan (0.29%), and Malaysia (0.25%). Several factors explain why these countries are predominant in cross-border marriages with Taiwan. Many Chinese individuals come to Taiwan for study and work, and over time, establish long-term relationships that contribute to a high ratio of cross-border marriages. Economic motivations also drive many of these unions. For individuals from Vietnam and China, marrying a Taiwanese national often promises better economic opportunities and living standards. Geographical proximity and historical ties further facilitate these marriages, making international unions more accessible and common. Taiwan's closeness to China, Hong Kong, Macao, and Vietnam, along with shared historical and cultural connections, plays a significant role.
+
+For individuals from the United States, educational and professional opportunities also contribute to the high marriage ratio. Many Taiwanese students pursue higher education in the U.S., creating opportunities for cross-cultural relationships. Additionally, the growth of globalized industries and multinational companies leads to more Taiwanese professionals working in the United States, and vice versa, resulting in more opportunities for relationships and marriages between nationals of the two countries.
+
+![4](https://github.com/nicrci/int_marriage_div/assets/172574448/4b68e83a-ead7-4c47-aa64-9313b32fdd16)
+On the other hand, the divorce ratio graph shows the top six countries with the highest divorce rates: China (3.25%), Vietnam (2.26%), Indonesia (0.29%), Hong Kong and Macao (0.24%), Japan (0.2%), and Thailand (0.2%). The high divorce rates for China and Vietnam can be related to issues such as fake marriages and the effects of labor migration. Additionally, there is a substantial flow of labor migration from Vietnam and China to Taiwan. Marriage brokerage agencies often facilitate these unions, particularly in rural areas where there is a shortage of local brides. Interestingly, Figure 4 shows that China (3.25%) and Vietnam (2.26%) have the highest divorce rates, which can be related to fake marriages and labor migration problems. Furthermore, as shown in Figure 4, marriages with U.S. spouses appear stable, as they do not rank high in the divorce rate, while Japan ranks relatively high in both marriage and divorce figures.
 
 
 
