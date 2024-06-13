@@ -30,13 +30,15 @@ This project has provided insights regarding the marriage and divorce landscape 
 
 ## Contributors
 
-The members of this project include Billy Wu, Nicole Richi, and Sinaee.
+The members of this project include Billy, Nicole, and Sinaee.
 
 ## Acknowledgments
 
-We would like to thank Professor Pien Chung-Pei for his guidance throughout the semester.
+We would like to thank Professor Pien Chung-Pei for his guidance throughout the semester. For insights into our results, we would also like to thank Professor Ou Tzu-chi and Professor Su Yu-hsuan.
 
-For insights into our results, we would like to thank Professor Ou Tzu-chi and Professor Su Yu-hsuan
+For the raw data, we would like to thank the specialist in the Department of Household Regiration, Ms. Lai.
+
+Special thanks to Izz for the visual aids and support.
 
 ## References
 
