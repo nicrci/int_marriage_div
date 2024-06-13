@@ -28,7 +28,7 @@ The members of this project include Billy Wu, Nicole Richi, and Sinaee.
 
 We would like to thank Professor Pien Chung-Pei for his guidance throughout the semester.
 
-For insights into our results, we would like to thank Professor Ou Tzu-chi and Professor Su Yu-hsuan.
+For insights into our results, we would like to thank Professor Ou Tzu-chi and Professor Su Yu-hsuan
 
 ## References
 
