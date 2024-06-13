@@ -22,7 +22,7 @@
 
 ## Contributors
 
-[List the contributors to your project and describe their roles and responsibilities.]
+The members of this project include Billy Wu, Nicole Richi, and Sinaee.
 
 ## Acknowledgments
 
