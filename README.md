@@ -98,6 +98,14 @@ Merged the data with geographical map data of Taiwan and created choropleth maps
 
 ### Analysis and Finding
 
+![未命名設計 (1)](https://github.com/nicrci/int_marriage_div/assets/172574448/cd54d3f2-ab3e-4259-8642-a6a093c7ee66)
+The map illustrates a concentration of higher marriage rates in the more modern and northern parts of Taiwan, particularly in Taipei (0.07%) and New Taipei City (0.06%). This trend is likely influenced by the higher population density and better economic conditions in these urban centers compared to rural areas like Hualien County (0.03%) and Taitung County (0.03%). Notably, Taoyuan City (0.06%) stands out as a major hub for migrant workers in Taiwan, which significantly contributes to its elevated marriage rate. Interestingly, some isolated regions in the central area like Nantou County (0.05%) also show higher marriage rates.
+
+![未命名設計](https://github.com/nicrci/int_marriage_div/assets/172574448/76270de0-933f-47e6-893a-0baf5f6fbc2f)
+Although the marriage rate map shows that marriage rates directly correlate with the population within cities, divorce rates are more varied and spread across the country. Surprisingly, the map reveals that less urban areas like Taoyuan City (0.03%) and Miaoli County (0.03%) tend to have higher divorce rates compared to more urban areas like Taipei City (0.02%). This disparity can be attributed to differences in lifestyle, economic pressures, and social dynamics in each city. In less urban areas, the economic challenges, such as lower employment opportunities and income instability, often contribute to financial stress within households, leading to higher divorce rates. Additionally, social isolation due to geographical distance and less developed social infrastructure in rural communities can result in a lack of social support networks, which are crucial for maintaining strong marital relationships. These factors collectively contribute to the higher divorce rates observed in less urbanized areas. 
+
+
+
 
 ## Results
 
