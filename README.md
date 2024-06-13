@@ -12,7 +12,7 @@ In this study, we aim to explore the evolving landscape and trends of internatio
 
 Initially, we planned to analyze the marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform. However, this database consists of two separate monthly files for marriages and marriage terminations. Each file contains conditional data rather than personal data, with information subdivided to the le level in each city and county, as well as various nationalities with three years. This resulted in an excessively large volume of data, including many irrelevant observations. Consequently, we modified our analysis approach to focus on data cleaning and valid observations, concentrating primarily on the major nationalities.
 
-## Getting Started
+## Getting Started (data source, original data evaluation(what each col and data obs means), what we plan to do)
 
 1. Download the raw data on divorce and marriage for the years 2021-2023 from the Taiwanese government website at https://data.gov.tw/dataset/32969.
 2. Download and install RStudio (we will be using R version 4.3.2).
@@ -22,15 +22,13 @@ Initially, we planned to analyze the marriage and marriage termination data from
 6. Eliminated cities : 連江縣東引鄉, 連江縣北竿鄉, 連江縣莒光鄉, 連江縣南竿鄉, 金門縣金寧鄉, 金門縣烈嶼鄉, 金門縣烏坵鄉, 金門縣金沙鎮, 金門縣金城鎮, 金門縣金湖鎮, 澎湖縣湖西鄉, 澎湖縣白沙鄉, 澎湖縣七美鄉, 澎湖縣馬公市, 澎湖縣望安鄉, 澎湖縣馬公市, 澎湖縣西嶼鄉
 7. Then translate the data from Traditional Chinese to English, including household_registration_status, marriage_type, sex, original_nationality, city, and district.
 
-## File Structure
+## File Structure (data cleaning and what does data means, each cols obs and how to are going to use them)
 
 During the data cleaning process, we organized the monthly .csv files of marriage and divorce data for the 3 targeted years into 6 folders. These folders are named: "2021_divorce," "2022_divorce," "2023_divorce," "2021_marriage," "2022_marriage," and "2023_marriage."
 
 After completing the data cleaning, we merged the divorce and marriage data for each respective year, saved them as .csv files, and named the resulting files: "mix_2021," "mix_2022," and "mix_2023." Subsequently, we merged the data for all 3 years into a single file named "mix_110_112_all."
 
 Finally, with the data prepared, we created a data visualization and analysis R script named "Finally_done." This script contains code for visualizing the "mix_110_112_all" file, including map plotting, line graphs, distribution graphs, and donut charts.
-
-## Analysis
 
 ### Data and Methodology
 
@@ -100,15 +98,17 @@ we use two choropleth maps shows the average marriage rate and divorce rate by c
 
 Calculation Methods:
 
-Aggregated marriage and divorce counts and population data by city and year.
+Aggregated marriage and divorce counts and population data by city and average of three years.
 Calculated the marriage and divorce rate as a percentage of the population.
 Computed the three-year average marriage and divorce rate for each city.
 Merged the data with geographical map data of Taiwan and created choropleth maps.
 
 
-### Analysis and Finding
+## Analysis
 
-![未命名設計 (1)](https://github.com/nicrci/int_marriage_div/assets/172574448/cd54d3f2-ab3e-4259-8642-a6a093c7ee66)
+### 1-1 What is the overall landscape of international marriages in Taiwan?
+
+
 The map illustrates a concentration of higher marriage rates in the more modern and northern parts of Taiwan, particularly in Taipei (0.07%) and New Taipei City (0.06%). This trend is likely influenced by the higher population density and better economic conditions in these urban centers compared to rural areas like Hualien County (0.03%) and Taitung County (0.03%). Notably, Taoyuan City (0.06%) stands out as a major hub for migrant workers in Taiwan, which significantly contributes to its elevated marriage rate. Interestingly, some isolated regions in the central area like Nantou County (0.05%) also show higher marriage rates.
 
 ![未命名設計](https://github.com/nicrci/int_marriage_div/assets/172574448/76270de0-933f-47e6-893a-0baf5f6fbc2f)
