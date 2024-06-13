@@ -14,11 +14,21 @@ Initially, we planned to analyze the marriage and marriage termination data from
 
 ## Getting Started
 
-[Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
+1. Download the raw data on divorce and marriage for the years 2021-2023 from the Taiwanese government website at https://data.gov.tw/dataset/32969.
+2. Download and install RStudio (we will be using R version 4.3.2).
+3. Install the necessary libraries in RStudio using the install.packages() command. The required libraries include readr, dplyr, ggplot2, readxl, jsonlite, tidyr, stringr, and scales.
+4. Due to the large size of the raw data from the Taiwanese government website and the use of Traditional Chinese, data cleaning is necessary. This involves removing some data such as small cities, islands, and certain nationalities that are not needed. Additionally, the data should be translated into English for better usability and understanding.
+5. Eliminated nationalities : 史瓦帝尼, 賴索托, 模里西斯, 其他
+6. Eliminated cities : 連江縣東引鄉, 連江縣北竿鄉, 連江縣莒光鄉, 連江縣南竿鄉, 金門縣金寧鄉, 金門縣烈嶼鄉, 金門縣烏坵鄉, 金門縣金沙鎮, 金門縣金城鎮, 金門縣金湖鎮, 澎湖縣湖西鄉, 澎湖縣白沙鄉, 澎湖縣七美鄉, 澎湖縣馬公市, 澎湖縣望安鄉, 澎湖縣馬公市, 澎湖縣西嶼鄉
+7. Then translate the data from Traditional Chinese to English, including household_registration_status, marriage_type, sex, original_nationality, city, and district.
 
 ## File Structure
 
-[Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
+During the data cleaning process, we organized the monthly .csv files of marriage and divorce data for the 3 targeted years into 6 folders. These folders are named: "2021_divorce," "2022_divorce," "2023_divorce," "2021_marriage," "2022_marriage," and "2023_marriage."
+
+After completing the data cleaning, we merged the divorce and marriage data for each respective year, saved them as .csv files, and named the resulting files: "mix_2021," "mix_2022," and "mix_2023." Subsequently, we merged the data for all 3 years into a single file named "mix_110_112_all."
+
+Finally, with the data prepared, we created a data visualization and analysis R script named "Finally_done." This script contains code for visualizing the "mix_110_112_all" file, including map plotting, line graphs, distribution graphs, and donut charts.
 
 ## Analysis
 
