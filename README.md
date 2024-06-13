@@ -20,9 +20,23 @@ Initially, we planned to analyze the marriage and marriage termination data from
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 
-## Analysis
+## Analysis and Finding 
 
-[Describe your analysis methods and include any visualizations or graphics that you used to present your findings. Explain the insights that you gained from your analysis and how they relate to your research question or problem statement.]
+### Data Cleaning 
+
+
+We systematically cleaned the data by looping through marriage and divorce CSV files from each month over three years, from 2021 to 2023. We read all CSV files in the specified directories for each year and combined them into a single data frame. Then, we standardized the column names to clearly represent the content of each column, including year-month, district code, city/district, village, marriage type, sex, original nationality, household registration status, marriage count, and divorce count.
+
+Next, we defined lists containing the names of different levels of administrative divisions for subsequent data processing and converted the divorce count column to numeric type for accurate calculations and analysis. We re-coded columns such as household registration status, marriage type, sex, and original nationality to English.
+
+For better data evaluation, we removed irrelevant and unnecessary data, excluding nationalities such as Eswatini, Lesotho, Mauritius, and "Other," which account for less than 1% of the total, as well as data related to the outlying islands. Rows containing specific keywords (such as "统计年月") were also removed. We extracted the year and month from the year-month column, creating new year and month columns. Additionally, city and district names were separated from the city/district column and re-coded to English.
+
+The marriage and divorce datasets were then merged using a left join based on common columns, creating a comprehensive data frame that includes both marriage and divorce information for each year. The merged data for each year was written to CSV files for final use.
+
+After merging, the data from years 110 to 112 were grouped by key columns such as year, month, city, district, city level, marriage type, sex, original nationality, and household registration status. The total marriage and divorce counts were summarized for each group. This process resulted in three new data frames for years 110 to 112, each containing aggregated marriage and divorce counts. Finally, we used rbind to merge all three years' data into one complete data frame.
+
+Through these steps, we successfully cleaned and processed the data, extracting key information (year, month, city, marriage type, sex, original nationality, marriage count, divorce count) and grouping observations by city to keep them concise. This approach ensured the data was ready for further analysis and visualization, providing a clear and organized dataset for our project.
+
 
 ## Results
 
