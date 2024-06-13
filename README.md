@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Over time, Taiwan's demographic landscape has shifted significantly with the addition of 570,000 new immigrants, including migrant workers and international marriages (Source: Wealth Magazine, 2022). Taiwan once had the highest rate of international marriage in Asia, comprising nearly 15.9% of all marriages (Source: Commonwealth Magazine and Wealth Magazine, 2022). International marriages are crucial to Taiwan's demographic landscape. However, the trends in international marriages have been seldom discussed in recent years, particularly after the pandemic.
+Over time, Taiwan's demographic landscape has shifted significantly with the addition of 570,000 new immigrants, including migrant workers and international marriages (Guo, 2022). Taiwan once had the highest rate of international marriage in Asia, comprising nearly 15.9% of all marriages (Economist, 2022). International marriages are crucial to Taiwan's demographic landscape. However, the trends in international marriages have been seldom discussed in recent years, particularly after the pandemic.
 
 In this study, we aim to explore the evolving landscape and trends of international marriages in Taiwan post-pandemic. Specifically, our objectives are to better understand the key nationalities within International marriages in Taiwan, their marriage and divorce trends over years, and the gender dynamic within each nationality. We will incorporate the environmental and cultural factors of each nationality and consider policy contexts in our research. This study seeks to provide valuable insights for Taiwan's international marriage policy by addressing the following questions:
 
@@ -47,6 +47,10 @@ For the raw data, we would like to thank the specialist in the Department of Hou
 Special thanks to Izz for the visual aids and support.
 
 ## References
+
+Economist. (2011, November 15). Integration vs. conflict: Do cross-border marriages last longer? CommonWealth Magazine. Retrieved from https://www.cw.com.tw/article/20111115/integration-vs-conflict-do-cross-border-marriages-last-longer
+
+Guo, Q. L. (2022, January 31). Taiwan's ethnic groups as one family 1: Passersby become locals! New residents and their children surpass one million, becoming the fourth largest ethnic group in the country. Wealth Magazine. Retrieved from https://www.wealth.com/article/20220131/taiwans-ethnic-groups-as-one-family-1-passersby-become-locals-new-residents-and-their-children-surpass-one-million-becoming-the-fourth-largest-ethnic-group-in-the-country
 
 Halla, M., Liu, C. L., & Liu, J. T. (2019). The effect of superstition on health: Evidence from the Taiwanese Ghost month (No. w25474). National Bureau of Economic Research.
 
