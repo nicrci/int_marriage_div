@@ -26,7 +26,9 @@ The members of this project include Billy Wu, Nicole Richi, and Sinaee.
 
 ## Acknowledgments
 
-[Thank any individuals or organizations who provided support or assistance during your project, including funding sources or data providers.]
+We would like to thank Professor Pien for his guidance throughout the semester.
+
+For insights into our results, we would like to thank Professor Ou and Professor Su.
 
 ## References
 
