@@ -165,7 +165,7 @@ This project has provided insights regarding the marriage and divorce landscape 
 
 ## Conclusion
 
-This study provides a comprehensive analysis of the landscape of international marriages in Taiwan, revealing significant insights into geographic distributions, nationality compositions, and gender dynamics from 2021 to 2023. The findings offer a detailed examination of marriage and divorce rates among foreign nationals in various counties and cities, highlighting key trends and patterns.
+This study has provided valuable insights into the evolving landscape of international marriages in Taiwan, highlighting the significance of demographic shifts, nationality compositions, gender dynamics, and socio-economic challenges. By analyzing data from 2021 to 2023, we have gained a comprehensive understanding of the key nationalities involved in international marriages, their marriage and divorce trends, and the gender ratios within these marriages.
 
 Our analysis indicates that international marriages are predominantly concentrated in urban centers such as Taipei and New Taipei City, driven by higher population densities and better economic conditions. Taoyuan City also emerges as a significant hub due to its large migrant worker population. Conversely, rural areas like Hualien and Taitung Counties show lower marriage rates but higher divorce rates, likely influenced by economic challenges and social isolation.
 
