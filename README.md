@@ -20,10 +20,9 @@ Initially, we planned to analyze the marriage and marriage termination data from
 
 [Describe the file structure of your project, including how the files are organized and what each file contains. Be sure to explain the purpose of each file and how they are related to one another.]
 
-## Analysis and Finding 
+## Analysis
 
-### Data Cleaning 
-
+### Data and Methodology
 
 We systematically cleaned the data by looping through marriage and divorce CSV files from each month over three years, from 2021 to 2023. We read all CSV files in the specified directories for each year and combined them into a single data frame. Then, we standardized the column names to clearly represent the content of each column, including year-month, district code, city/district, village, marriage type, sex, original nationality, household registration status, marriage count, and divorce count.
 
@@ -36,6 +35,68 @@ The marriage and divorce datasets were then merged using a left join based on co
 After merging, the data from years 110 to 112 were grouped by key columns such as year, month, city, district, city level, marriage type, sex, original nationality, and household registration status. The total marriage and divorce counts were summarized for each group. This process resulted in three new data frames for years 110 to 112, each containing aggregated marriage and divorce counts. Finally, we used rbind to merge all three years' data into one complete data frame.
 
 Through these steps, we successfully cleaned and processed the data, extracting key information (year, month, city, marriage type, sex, original nationality, marriage count, divorce count) and grouping observations by city to keep them concise. This approach ensured the data was ready for further analysis and visualization, providing a clear and organized dataset for our project.
+
+### Visualiztion Methodology
+
+1. Marriage and Divorce Count by Nationality Group (Including Taiwan)
+
+We use the dual-axis line charts display the marriage and divorce counts for different nationality groups, including Taiwan, over the months from January 2021 to December 2023. The main axis shows the counts for non-Taiwanese groups, while a secondary axis scales the counts for Taiwanese. The chart helps us illustrates the trends in marriage and divorce counts across different nationality groups, providing a comparative view between Taiwanese and non-Taiwanese marriage and divorce patterns.
+
+Calculation Methods:
+- Filtered and grouped the data by year, month, and nationality group.
+- Summed the marriage and divorce counts for each group.
+- Created a dual-axis plot with the total marriage counts for non-Taiwanese groups on one axis and scaled marriage counts for Taiwanese on the secondary axis(reduced by 20 times for better review) .
+
+
+2. The Divorce and Marriage Ratio of Different Nationalities in Taiwan's international marriage 
+
+we use two pie charts displays the proportions of divorces and marriage among different nationalities, excluding Taiwanese, in Taiwan. Each segment represents a nationality, and its size indicates the proportion of divorces within that group compared to the total divorces among all non-Taiwanese nationalities. these two plots provides a clear visual representation of the distribution of divorces and marriages among different nationalities in Taiwan. They identifies the nationalities with higher proportions of marriages and  highlights the nationalities with higher proportions of divorces and offers insights into the marital stability of various non-Taiwanese groups and the popularity and prevalence of marriages among various non-Taiwanese groups.
+
+Calculation Methods:
+
+- Filtered the dataset to include only non-Taiwanese individuals.
+- Grouped the data by nationality and summed the divorce and the marriage counts.
+- Calculated the proportion of divorces and marriages for each nationality relative to the total divorces among non-Taiwanese individuals.
+- Sorted the nationalities by their proportion of divorces and marriages in descending order.
+- Used a larger color palette to ensure distinct colors for each nationality.
+- Created a pie chart with sorted segments, displaying the proportion of divorces and marriages for each nationality.
+
+
+3. Divorce Gender Ratio by Nationality (Calculated by Marriage Count)
+ 
+we use the horizontal bar chart displays the gender ratio of divorces by nationality, normalized by the marriage count. It shows the proportion of divorces by gender for each nationality and reveals gender-specific divorce patterns among major nationalities, normalized by marriage counts to provide a balanced view of gender disparities in divorce rates.
+
+Calculation Methods:
+
+Filtered the dataset to include seven major nationalities.
+Grouped the data by nationality and sex, summing the divorce and marriage counts.
+Calculated the divorce proportion relative to the marriage count for normalization.
+Created a horizontal bar chart with proportions, showing the gender ratio of divorces.
+
+4. Marriage Gender Ratio by Nationality
+
+We use the  horizontal bar chart illustrates the gender ratio of marriages by nationality, focusing on seven major nationalities. The chart shows the proportion of marriages by gender for each nationality and highlights the gender distribution of marriages among major nationalities, providing insights into cultural and social factors influencing marriage practices.
+
+Calculation Methods:
+
+- Filtered the dataset to include seven major nationalities.
+- Grouped the data by nationality and sex, summing the marriage counts.
+- Calculated the proportion of marriage counts for each sex within each nationality.
+- Created a horizontal bar chart with proportions, sorted by the female proportions.
+
+5. Average Marriage and Divorce Rate Distrubution Map (2021-2023)
+
+we use two choropleth maps shows the average marriage rate and divorce rate by city in Taiwan over three years (2021 to 2023). The color gradient indicates the marriage and divorce rate, with darker shades representing higher rates. The maps provide a visual representation of marriage and divorce rates across different cities in Taiwan, highlighting regional variations and identifying areas with higher or lower rates.
+
+Calculation Methods:
+
+Aggregated marriage and divorce counts and population data by city and year.
+Calculated the marriage and divorce rate as a percentage of the population.
+Computed the three-year average marriage and divorce rate for each city.
+Merged the data with geographical map data of Taiwan and created choropleth maps.
+
+
+### Analysis and Finding
 
 
 ## Results
