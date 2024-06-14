@@ -12,13 +12,19 @@ Initially, we planned to analyze the marriage and marriage termination data from
 
 ## Getting Started (data source, original data evaluation(what each col and data obs means), what we plan to do)
 
-1. Download the raw data on divorce and marriage for the years 2021-2023 from the Taiwanese government website at https://data.gov.tw/dataset/32969.
-2. Download and install RStudio (we will be using R version 4.3.2).
-3. Install the necessary libraries in RStudio using the install.packages() command. The required libraries include readr, dplyr, ggplot2, readxl, jsonlite, tidyr, stringr, and scales.
-4. Due to the large size of the raw data from the Taiwanese government website and the use of Traditional Chinese, data cleaning is necessary. This involves removing some data such as small cities, islands, and certain nationalities that are not needed. Additionally, the data should be translated into English for better usability and understanding.
-5. Eliminated nationalities : 史瓦帝尼, 賴索托, 模里西斯, 其他
-6. Eliminated cities : 連江縣東引鄉, 連江縣北竿鄉, 連江縣莒光鄉, 連江縣南竿鄉, 金門縣金寧鄉, 金門縣烈嶼鄉, 金門縣烏坵鄉, 金門縣金沙鎮, 金門縣金城鎮, 金門縣金湖鎮, 澎湖縣湖西鄉, 澎湖縣白沙鄉, 澎湖縣七美鄉, 澎湖縣馬公市, 澎湖縣望安鄉, 澎湖縣馬公市, 澎湖縣西嶼鄉
-7. Then translate the data from Traditional Chinese to English, including household_registration_status, marriage_type, sex, original_nationality, city, and district.
+To begin, download the raw data on divorce and marriage for the Taiwanese years 110-112 from the Taiwanese government website at https://data.gov.tw/dataset/32969. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
+
+| Original column name | New column name | Description |
+| ------------- | ------------- | ------------- |
+| statistic_yyymm | yearmonth | Taiwanese year and month |
+| district_code | district_code | District code number |
+| site_id | city_district | City and district name |
+| village | village_li | Village name |
+| marriage_type | marriage_type | Marriage type including same-sex marriage and different-sex marrage |
+| sex | sex | Male or Female |
+| nation | original_nationality | Originalnationality of that person in the data |
+| registration | household_registration_status | Household registration in Taiwan including registered or not regirster |
+| marry_count / divorce_count | marry_count / divorce_count | Number of marry and divorce count |
 
 ## File Structure (data cleaning and what does data means, each cols obs and how to are going to use them)
 
