@@ -1,3 +1,5 @@
+# International Marriage and Divorce Landscape and Trends in Taiwan (2021-2023)
+
 ## Project Description
 
 Over time, Taiwan's demographic landscape has shifted significantly with the addition of 570,000 new immigrants, including migrant workers and international marriages (Guo, 2022). Taiwan once had the highest rate of international marriage in Asia, comprising nearly 15.9% of all marriages (Economist, 2022). International marriages are crucial to Taiwan's demographic landscape. However, the trends in international marriages have been seldom discussed in recent years, particularly after the pandemic.
