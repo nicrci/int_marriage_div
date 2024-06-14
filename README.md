@@ -26,6 +26,51 @@ To begin, download the raw data on divorce and marriage for the Taiwanese years 
 | registration | household_registration_status | Household registration in Taiwan including registered or not regirster |
 | marry_count / divorce_count | marry_count / divorce_count | Number of marry and divorce count |
 
+Next, download and install RStudio, ensuring you have R version 4.3.2. Once RStudio is set up, install the necessary libraries using the install.packages() command. The required libraries include readr, dplyr, ggplot2, readxl, jsonlite, tidyr, stringr, and scales.
+```
+install.packages(readr)       # For reading .csv file
+install.packages(dplyr)       # For data manipulation
+install.packages(ggplot2)     # For plotting graph for data visualization
+install.packages(readxl)      # For reading .xl file
+install.packages(jsonlite)    # For JSON data processing
+install.packages(tidyr)       # For tidying data
+install.packages(stringr)     # For string manipulation
+install.packages(scales)      # For scaling and formatting data for visualization
+```
+Due to the large size of the raw data and its use of Traditional Chinese, data cleaning is necessary. This involves removing data from certain small cities, islands, and specific nationalities that are not needed.
+
+The eliminated nationalities are :
+
+| Traditional Chinese | English |
+| ------------- | ------------- |
+| 史瓦帝尼 | Eswatini |
+| 賴索托 | Lesotho |
+| 模里西斯 | Mauritius |
+| 其他 | Others |
+
+The eliminated cities are :
+
+| Traditional Chinese | English |
+| ------------- | ------------- |
+| 連江縣東引鄉 | Dongyin Township, Lienchiang County |
+| 連江縣北竿鄉 | Beigan Township, Lienchiang County |
+| 連江縣莒光鄉 | Juguang Township, Lienchiang County |
+| 連江縣南竿鄉 | Nangan Township, Lienchiang County |
+| 金門縣金寧鄉 | Jinning Township, Kinmen County |
+| 金門縣烈嶼鄉 | Lieyu Township, Kinmen County |
+| 金門縣烏坵鄉 | Wuqiu Township, Kinmen County |
+| 金門縣金沙鎮 | Jinsha Township, Kinmen County |
+| 金門縣金城鎮 | Jincheng Township, Kinmen County |
+| 金門縣金湖鎮 | Jinhu Township, Kinmen County |
+| 澎湖縣湖西鄉 | Huxi Township, Penghu County |
+| 澎湖縣白沙鄉 | Baisha Township, Penghu County |
+| 澎湖縣七美鄉 | Qimei Township, Penghu County |
+| 澎湖縣馬公市 | Magong City, Penghu County |
+| 澎湖縣望安鄉 | Wang'an Township, Penghu County |
+| 澎湖縣西嶼鄉 | Xiyu Township, Penghu County |
+
+Finally, translate the everyday data contained in each file from Traditional Chinese to English.
+
 ## File Structure (data cleaning and what does data means, each cols obs and how to are going to use them)
 
 During the data cleaning process, we organized the monthly .csv files of marriage and divorce data for the 3 targeted years into 6 folders. These folders are named: "2021_divorce," "2022_divorce," "2023_divorce," "2021_marriage," "2022_marriage," and "2023_marriage."
