@@ -14,7 +14,7 @@ Initially, we planned to analyze the marriage and marriage termination data from
 
 ## Getting Started (data source, original data evaluation(what each col and data obs means), what we plan to do)
 
-Since, there has been a shift in Taiwan's policy regarding international marriages. Therefore, we have decided to examine the data on international marriages and divorces in Taiwan from year 2021 to 2023. This analysis allows us to observe significant changes in the numbers during the policy's implementation, as well as during the pandemic, and to understand how Taiwanese beliefs regarding national holidays and cultural periods, such as Chinese New Year and Ghost Month, have influenced these trends.
+Based on our research questions, we have decided to examine data on international marriages and divorces in Taiwan from 2021 to 2023. Our aim is to analyze Taiwanese marriage trends, beliefs regarding national holidays and cultural periods, and marriage and divorce patterns during and after the pandemic. Additionally, we will explore the relationship between Taiwan and China, stereotypes of foreign brides regarding Taiwanese men, and stereotypes of foreign grooms regarding Taiwanese women. This analysis will allow us to observe significant changes in the numbers of marriages and divorces in Taiwan involving people of different nationalities.
 
 To begin, download the raw data on divorce and marriage for the Taiwanese years 110-112 from the Taiwanese government platform at https://data.gov.tw/dataset/32969. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
 
