@@ -334,6 +334,80 @@ Department of Household Registration, Ministry of the Interior. (2020-2024). Num
 | 2000s       | Statistics and policies: In 2005, a survey on the living conditions of foreign and mainland Chinese spouses was conducted, covering those in Taiwan from 1986 to 2003. <br> As of late 2006, there were approximately 80,221 female spouses from Southeast Asia, accounting for 9.3% of all marriages. <br> Establishment of the National Immigration Agency and policy reforms: In 2007, the National Immigration Agency was established as the central authority for new immigrants, strengthening management and support policies for foreign spouses, such as setting up a consultation hotline. <br> In 2009, the Ma Ying-jeou administration shortened the required residency period for mainland Chinese spouses to obtain ID cards from 8 years to 6 years. |
 | 2014-2023   | 2015: Implementation of overseas interview policy, requiring couples involving nationals from specific countries to complete an interview at a foreign mission after marriage registration before the foreign spouse can obtain a visa to Taiwan. <br> 2016: Amendment to the Nationality Act exempted those with exceptional contributions from renouncing their original nationality when naturalizing. <br> Around 50 high-level professionals, including soccer coaches, have naturalized under this provision. <br> Nationality Act amendment allowed applicants to delay renunciation of original nationality until after naturalization approval, preventing them from becoming stateless if rejected. <br> 2017: The Ministry of Interior requested local governments to identify individuals with exceptional contributions interested in naturalization. <br> Streamlined naturalization process, taking approximately 10 days to complete. <br> 2018: Foreign spouses no longer required to provide financial proof for naturalization applications. Divorced or widowed applicants granted same 3-year residency requirement as foreign spouses, without financial thresholds. <br> 2019: While Taiwan legalized same-sex marriage, cross-national same-sex couples faced challenges in marriage registration due to legal inconsistencies. <br> January 2023: New interpretation removed some barriers for cross-national same-sex marriages, allowing Taiwanese citizens to register marriages with same-sex foreign partners (including Hong Kong and Macau residents but excluding mainland Chinese), regardless of their home country's stance on same-sex marriage. <br> March 2023: Revision of overseas interview guidelines removed obstacles, facilitating marriage registration for cross-national same-sex couples in Taiwan. |
 
+### B. Taiwan's Entry and Exit Regulations and Changes from 2021 to 2023
+
+Year	Category	Regulation Details
+2021	Entry Regulations	- Starting from March 19, 2020: 14-day home quarantine required for all entrants.<br>- Starting from December 1, 2020: Negative COVID-19 nucleic acid test report and proof of quarantine accommodation required.<br>- Starting from May 4, 2021: Travelers from high-risk countries (e.g., India, Brazil) must stay in centralized quarantine facilities and undergo testing.<br>- Starting from June 27, 2021: All entrants must stay in quarantine hotels or centralized quarantine facilities and use quarantine taxis to reach the location.
+2021	Exit Regulations	- All global destinations under "Red Alert," advising against non-essential travel abroad.
+2021	Foreign Nationals Entry	- Starting from July 26, 2021: Foreign nationals without valid residence permits are temporarily banned from entering Taiwan, except for humanitarian considerations.
+2021	Flight Operations	- Some airlines resumed partial international flights, including China Airlines, EVA Air, and Cathay Pacific.
+2022	Entry Regulations	- Starting from September 29, 2022: Quarantine period adjusted to 3 days of home quarantine followed by 4 days of self-health management.<br>- Starting from August 15, 2022: Requirement for a negative COVID-19 PCR report within 2 days before boarding lifted.
+2022	Border Control Measures	- Expected implementation from October 13, 2022: New 0+7 policy introduced, replacing home quarantine with 7 days of self-health management.<br>- From October 13, 2022: Borders will reopen, lifting the group travel ban and entry quota.<br>- Requirement for deep throat saliva PCR testing on arrival canceled, replaced by distributing 4 rapid test kits.
+2022	International Travel & Vaccine Quarantine-Free Regulations	- Japan: From October 11, 2022, short-term visa-free travel and individual tourism reopened.<br>- South Korea: From September 26, 2022, outdoor mask mandates lifted.<br>- Europe: Most countries fully reopened, no quarantine required for travelers with two doses of recognized vaccines.<br>- Canada: From October 1, 2022, all COVID-19 entry restrictions lifted.<br>- Australia: From July 6, 2022, international travelers no longer need to provide proof of vaccination.<br>- New Zealand: From September 12, 2022, no proof of vaccination required.<br>- Thailand: From October 1, 2022, all entry restrictions lifted.<br>- Vietnam: From May 15, 2022, no negative SARS-CoV-2 test certificate required.
+2022	Exit Regulations	- Continued advice against non-essential travel abroad.
+2022	Foreign Nationals Entry	- Strict border control measures continued, with foreign nationals without valid residence permits temporarily banned from entering Taiwan.
+2022	Flight Operations	- Some airlines resumed flights, including Singapore Airlines restoring flights to Taiwan.
+2023	Entry Regulations	- Starting from February 7, 2023: Requirement for saliva PCR testing for arrivals from China and 48-hour rapid test proof canceled.<br>- Starting from October 13, 2023: "0+7" entry policy implemented, replacing home quarantine with 7 days of self-health management.
+2023	Exit Regulations	- Visa-free entry restored, and the group travel restriction lifted.
+2023	Foreign Nationals Entry	- Foreign nationals must bear the cost of COVID-19 treatment if diagnosed.
+2023	Flight Operations	- Quarantine taxi services continued, but asymptomatic travelers could choose public transportation.
+
+These regulations reflect Taiwan's measures to cope with the COVID-19 pandemic from 2021 to 2023, with adjustments and relaxations made in response to the global pandemic situation. These changes not only impacted daily life for the general public but also had significant implications for international students and workers.
+
+### C. Naturalization Process for Foreign Spouses in Taiwan
+
+#### Marriage-Based Citizenship Process in Taiwan
+Register Marriage
+
+Complete the marriage registration at the local Household Registration Office to establish a legal marital relationship.
+Apply for a Residency Visa
+
+Foreign spouses can apply for a long-term residency visa for family reunion purposes.
+Apply for a Foreign Resident Certificate
+
+After legally residing in Taiwan and meeting the residency qualifications, apply at the local service stations of the National Immigration Agency.
+Legal Residence of 3 Years
+
+After legally residing for at least 183 days each year, one can apply for naturalization at the Household Registration Office.
+Apply for Naturalization Proof and Renounce Original Nationality
+
+Before applying for naturalization, one must first apply to renounce their original nationality.
+Apply for a Taiwan Residency Card
+
+After successful naturalization, apply for a Taiwan area residency card.
+Apply for a Settlement Certificate
+
+After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate.
+Household Registration and National ID
+
+With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card.
+Naturalization Process for Foreign Spouses in Taiwan
+Step-by-Step Overview:
+
+#### Marriage Registration:
+
+First, complete the marriage registration at the local Household Registration Office to establish a legal marital relationship.
+Apply for a Residency Visa:
+
+Foreign spouses can apply for a long-term residency visa for family reunion purposes.
+Apply for a Foreign Resident Certificate:
+
+After legally residing in Taiwan and meeting the residency qualifications, apply at the local service stations of the National Immigration Agency.
+Legal Residence of 3 Years:
+
+After legally residing for at least 183 days each year, one can apply for naturalization at the Household Registration Office.
+Apply for Naturalization Proof and Renounce Original Nationality:
+
+Before applying for naturalization, one must first apply to renounce their original nationality.
+Apply for a Taiwan Residency Card:
+
+After successful naturalization, apply for a Taiwan area residency card.
+Apply for a Settlement Certificate:
+
+After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate.
+Household Registration and National ID:
+
+With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card.
 
 
 
