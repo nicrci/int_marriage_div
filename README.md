@@ -382,8 +382,6 @@ Li, W. X. (2024, May 3). Post-pandemic phenomenon! Taiwan’s cross-border marri
 | 2023 | Foreign Nationals Entry    | - Foreign nationals must bear the cost of COVID-19 treatment if diagnosed.                                 |
 | 2023 | Flight Operations          | - Quarantine taxi services continued, but asymptomatic travelers could choose public transportation.        |
 
-These regulations reflect Taiwan's measures to cope with the COVID-19 pandemic from 2021 to 2023, with adjustments and relaxations made in response to the global pandemic situation. These changes not only impacted daily life for the general public but also had significant implications for international students and workers.
-
 ### C. Naturalization Process for Foreign Spouses in Taiwan
 
 | Step | Description |
