@@ -183,8 +183,6 @@ Calculation Methods:
 - Computed the three-year average marriage and divorce rate for each city.
 - Merged the data with geographical map data of Taiwan and created choropleth maps.
 
-## Results
-
 ### 1-1 What is the overall landscape of international marriages in Taiwan?
 
 To better understand the landscape of international marriages in Taiwan, this study calculates the average population of each county and city in Taiwan from 2021 to 2023. The marriage and divorce rates over the three years are then determined based on the number of marriages and divorces among foreign nationals in each county and city. The data is presented on a map of Taiwan, allowing for a detailed examination of the geographic distribution and trends in the marriage and divorce rates of international marriages. This also helps to assess the stability of international marriages across different counties and cities. The results are illustrated in Figures 1 and 2.
@@ -234,7 +232,7 @@ Figure 7 illustrates the notable impact of the COVID-19 pandemic on internationa
 ![8](https://github.com/nicrci/int_marriage_div/assets/172574448/70aaaf64-68a8-4cb9-87da-7225fe6b617e)
 In Figures 8, divorces with Southeast Asian countries and China show a slight upward trend, while those with Hong Kong, Macao, and other countries remain stable. Overall, the divorce trends in Taiwan are similar for both local and foreign couples. After the pandemic, divorce rates increased due to the lockdown effect, which forced couples to spend more time together. This intensified close quarters led to many couples realizing they could not get along, resulting in a divorce (Surpressed Divorce) (Su, 2024). Additionally, there is a notable spike in divorces following Chinese New Year. Many people believe that divorcing shortly before or during the New Year brings bad luck, so they wait until after the holiday to proceed with their separations (Halla et al., 2019).
 
-### 4 The Dynamics of International Marriages and Divorces in Taiwan: Gender Imbalances, Socio-Economic Challenges, and Post-Pandemic Trends
+## Results: The Dynamics of International Marriages and Divorces in Taiwan: Gender Imbalances, Socio-Economic Challenges, and Post-Pandemic Trends
 
 The marriage ratio graph reveals that the top six countries for marriages with Taiwanese nationals are China (1.17%), Vietnam (1.42%), Hong Kong and Macao (0.51%), the United States (0.35%), Japan (0.29%), and Malaysia (0.25%). On the other hands, divorce ratio graph shows the top 6 countries that have the most divorce rate which are China (3.25%), Vietnam (2.26%), Indonesia (0.29%), Hong Kong and Macao (0.24%), Japan (0.2%), and Thailand (0.2%). 
 
