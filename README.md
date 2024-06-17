@@ -78,7 +78,7 @@ The eliminated cities are :
 
 Finally, translate all the data contained in each file from Traditional Chinese to English for greater convenience and usability (the detailed method is under section Data Cleaning and Methodology).
 
-## File Structure (data cleaning and what does data means, each cols obs and how to are going to use them)
+## File Structure
 
 ```
 📦 Project
