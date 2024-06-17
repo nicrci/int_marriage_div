@@ -183,6 +183,8 @@ Calculation Methods:
 - Computed the three-year average marriage and divorce rate for each city.
 - Merged the data with geographical map data of Taiwan and created choropleth maps.
 
+## Results
+
 ### 1-1 What is the overall landscape of international marriages in Taiwan?
 
 To better understand the landscape of international marriages in Taiwan, this study calculates the average population of each county and city in Taiwan from 2021 to 2023. The marriage and divorce rates over the three years are then determined based on the number of marriages and divorces among foreign nationals in each county and city. The data is presented on a map of Taiwan, allowing for a detailed examination of the geographic distribution and trends in the marriage and divorce rates of international marriages. This also helps to assess the stability of international marriages across different counties and cities. The results are illustrated in Figures 1 and 2.
@@ -232,7 +234,7 @@ Figure 7 illustrates the notable impact of the COVID-19 pandemic on internationa
 ![8](https://github.com/nicrci/int_marriage_div/assets/172574448/70aaaf64-68a8-4cb9-87da-7225fe6b617e)
 In Figures 8, divorces with Southeast Asian countries and China show a slight upward trend, while those with Hong Kong, Macao, and other countries remain stable. Overall, the divorce trends in Taiwan are similar for both local and foreign couples. After the pandemic, divorce rates increased due to the lockdown effect, which forced couples to spend more time together. This intensified close quarters led to many couples realizing they could not get along, resulting in a divorce (Surpressed Divorce) (Su, 2024). Additionally, there is a notable spike in divorces following Chinese New Year. Many people believe that divorcing shortly before or during the New Year brings bad luck, so they wait until after the holiday to proceed with their separations (Halla et al., 2019).
 
-## Results
+### 4 The Dynamics of International Marriages and Divorces in Taiwan: Gender Imbalances, Socio-Economic Challenges, and Post-Pandemic Trends
 
 The marriage ratio graph reveals that the top six countries for marriages with Taiwanese nationals are China (1.17%), Vietnam (1.42%), Hong Kong and Macao (0.51%), the United States (0.35%), Japan (0.29%), and Malaysia (0.25%). On the other hands, divorce ratio graph shows the top 6 countries that have the most divorce rate which are China (3.25%), Vietnam (2.26%), Indonesia (0.29%), Hong Kong and Macao (0.24%), Japan (0.2%), and Thailand (0.2%). 
 
@@ -258,7 +260,13 @@ In conclusion, this study provides critical insights into the dynamics of intern
 
 ## Project Limitation and Future Research Possibilities
 
+### Project Limitation
 
+This study utilizes two major datasets from the Department of Household Registration, Ministry of the Interior: "Number of Divorces/Terminated Marriages by Marriage Type and Nationality of Both Parties" and "Number of Marriages by Marriage Type and Nationality of Both Parties." While the raw data includes significant information from all cities, counties, towns, and districts across Taiwan, as well as various nationalities involved in cross-national marriages, it is conditional data rather than personal data. Consequently, despite the valuable information within these datasets, the study cannot delve deeper into individual-level trend analyses. For instance, the marriage and divorce columns do not provide the exact month and year of the original marriage for divorced individuals, nor do they indicate if the divorce involved the same couple or the number of marriages and divorces for a particular individual. This limitation restricts the study's ability to conduct more in-depth analyses and research on divorce and marriage trends for specific nationalities. Additionally, the absence of personal-level data prevents the precise calculation of divorce rates, which may result in distorted outcomes. This limitation significantly impacts the accuracy and applicability of the divorce rate calculations in this study.
+
+Although the dataset includes information on whether foreign nationals have naturalized, the conditional nature of the data prevents a deeper examination of the relationship between naturalization and divorce rates. This also hinders the study's ability to analyze long-standing societal impressions of cross-national marriages in Taiwan, such as sham marriages and marriage transactions. Furthermore, the study analyzes and visualizes the geographical distribution of cross-national marriages at the county and city levels in Taiwan. However, this method does not account for the urban-rural divide and developmental differences within these regions. Certain areas, such as Zhonghe and Yonghe Districts in New Taipei City, are popular for foreign nationals' immigration and residence. Due to the study's focus and presentation considerations, these areas were not examined and analyzed in greater detail, which may result in potential errors and distortions in the preliminary analysis and findings presented in this study.
+
+### Future Research Possibilities
 
 
 ## Contributors
@@ -382,6 +390,7 @@ These regulations reflect Taiwan's measures to cope with the COVID-19 pandemic f
 | **Apply for a Taiwan Residency Card** | After successful naturalization, apply for a Taiwan area residency card. |
 | **Apply for a Settlement Certificate** | After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate. |
 | **Household Registration and National ID** | With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card. |
+
 
 
 
