@@ -29,7 +29,7 @@ To begin, download the raw data on divorce and marriage termination data from th
 | village | village_li | Village name |
 | marriage_type | marriage_type | Marriage type including same-sex marriage and different-sex marrage |
 | sex | sex | Male and Female |
-| nation | original_nationality | Originalnationality of that person in the data |
+| nation | original_nationality | Original nationality of that person in the data |
 | registration | household_registration_status | Household registration in Taiwan including registered or not regirster |
 | marry_count / divorce_count | marry_count / divorce_count | Number of marry and divorce count |
 
