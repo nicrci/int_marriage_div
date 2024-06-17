@@ -250,6 +250,11 @@ Post-pandemic trends reveal an increase in international marriages as travel res
 
 In conclusion, this study provides critical insights into the dynamics of international marriages in Taiwan. The findings emphasize the importance of understanding geographic, economic, and cultural factors in shaping marriage and divorce trends. These insights are vital for policymakers, researchers, and social organizations aiming to support international couples and address the challenges they face. The results of this study underscore the need for targeted policies and interventions to promote the stability and well-being of international marriages in Taiwan.
 
+## Project Limitation and Future Research Possibilities
+
+
+
+
 ## Contributors
 
 The members of this project include Billy, Nicole, and Sinaee.
@@ -264,9 +269,30 @@ Special thanks to Izz for the visual aids and support.
 
 ## References
 
-### Online Resource
+### Research
 
-Here are the translated references, ordered by the number of strokes in the first author's surname according to the APA format:
+Zeng, Z. X. (2021). Research on the current legal status and policy direction of cross-border marriage matchmaking organizations in Taiwan. National Immigration Agency, Ministry of the Interior.
+
+Halla, M., Liu, C. L., & Liu, J. T. (2019). The effect of superstition on health: Evidence from the Taiwanese Ghost month (No. w25474). National Bureau of Economic Research.
+
+Yu-hsuan Su, Chi-Feng Cho, Jin-Tan Liu. (2024). Marital Stability of Transnational Couples and Chinese Bride Interview Policy: Evidence from Taiwan. Unpublished manuscript, Graduate Institute of Development Studies, National Chengchi University, Taipei, Taiwan.
+
+Jones, G., & Shen, H. H. (2008). International marriage in East and Southeast Asia: Trends and research emphases. Citizenship studies, 12(1), 9-25.
+
+Hieu, L. T. (2015). Confucian influences on Vietnamese culture. Vietnam Social Sciences, 5(169), 71-82.
+
+Wang, H.-R., & Zhang, S.-M. (2003). The Commodification of the Taiwan-Vietnam Transnational Marriage Market. Taiwan Sociology, (6), 177-221. https://doi.org/10.6676/TS.2003.6.177
+
+Hsia, H.-C. (2000). International Marriages under Capital Internationalization: The Case of “Foreign Brides” in Taiwan. Taiwan: A Radical Quarterly in Social Studies, (39), 45-92. https://doi.org/10.29816/TARQSS.200009.0002
+
+Wang, H.-R. (2001). Marriage Migration and the Domestic Labor Market under Social Stratification: The Case of Vietnamese Brides. Taiwan: A Radical Quarterly in Social Studies, (41), 99-127. https://doi.org/10.29816/TARQSS.200103.0003
+
+### Data
+
+Department of Household Registration, Ministry of the Interior. (2020-2024). Number of divorces/terminated marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131137
+Department of Household Registration, Ministry of the Interior. (2020-2024). Number of marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131136
+
+### Online Resource
 
 Chen, K., & Chang, T. (2022, December 31). 2023 Entry and exit quarantine regulations: “0+7” quick test rules, cancellation of saliva PCR screening for passengers from China... all in one read! Harper's BAZAAR. Retrieved from https://www.harpersbazaar.com/tw/beauty/bodyandhealth/g42365092/2023-quarantine-abroad/
 
@@ -291,30 +317,6 @@ Chenhuifangnccu. (2018, December 25). [Infographic] Observing new immigrants in 
 Liu, Y. S. (2022, February 24). Southeast Asian immigrant workers: Stop calling them foreign brides! Taiwan’s new residents, new immigrants, and multiculturalism. CommonWealth Magazine. Retrieved from https://opinion.cw.com.tw/blog/profile/31/article/11972
 
 Li, W. X. (2024, May 3). Post-pandemic phenomenon! Taiwan’s cross-border marriage registrations increase by 77.6%, mostly from Southeast Asia. Zhiyin Foreign Marriage Association. Retrieved from https://www.zhiyin.com.tw/index.php?do=news&act=info&pid=0&id=85
-
-### Research
-
-Zeng, Z. X. (2021). Research on the current legal status and policy direction of cross-border marriage matchmaking organizations in Taiwan. National Immigration Agency, Ministry of the Interior.
-
-Halla, M., Liu, C. L., & Liu, J. T. (2019). The effect of superstition on health: Evidence from the Taiwanese Ghost month (No. w25474). National Bureau of Economic Research.
-
-Yu-hsuan Su, Chi-Feng Cho, Jin-Tan Liu. (2024). Marital Stability of Transnational Couples and Chinese Bride Interview Policy: Evidence from Taiwan. Unpublished manuscript, Graduate Institute of Development Studies, National Chengchi University, Taipei, Taiwan.
-
-Jones, G., & Shen, H. H. (2008). International marriage in East and Southeast Asia: Trends and research emphases. Citizenship studies, 12(1), 9-25.
-
-Hieu, L. T. (2015). Confucian influences on Vietnamese culture. Vietnam Social Sciences, 5(169), 71-82.
-
-Wang, H.-R., & Zhang, S.-M. (2003). The Commodification of the Taiwan-Vietnam Transnational Marriage Market. Taiwan Sociology, (6), 177-221. https://doi.org/10.6676/TS.2003.6.177
-
-Hsia, H.-C. (2000). International Marriages under Capital Internationalization: The Case of “Foreign Brides” in Taiwan. Taiwan: A Radical Quarterly in Social Studies, (39), 45-92. https://doi.org/10.29816/TARQSS.200009.0002
-
-Wang, H.-R. (2001). Marriage Migration and the Domestic Labor Market under Social Stratification: The Case of Vietnamese Brides. Taiwan: A Radical Quarterly in Social Studies, (41), 99-127. https://doi.org/10.29816/TARQSS.200103.0003
-
-
-### Data
-
-Department of Household Registration, Ministry of the Interior. (2020-2024). Number of divorces/terminated marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131137
-Department of Household Registration, Ministry of the Interior. (2020-2024). Number of marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131136
 
 ## Appendix
 
@@ -364,63 +366,16 @@ These regulations reflect Taiwan's measures to cope with the COVID-19 pandemic f
 
 ### C. Naturalization Process for Foreign Spouses in Taiwan
 
-#### Marriage-Based Citizenship Process in Taiwan
-Register Marriage
-
-Complete the marriage registration at the local Household Registration Office to establish a legal marital relationship.
-Apply for a Residency Visa
-
-Foreign spouses can apply for a long-term residency visa for family reunion purposes.
-Apply for a Foreign Resident Certificate
-
-After legally residing in Taiwan and meeting the residency qualifications, apply at the local service stations of the National Immigration Agency.
-Legal Residence of 3 Years
-
-After legally residing for at least 183 days each year, one can apply for naturalization at the Household Registration Office.
-Apply for Naturalization Proof and Renounce Original Nationality
-
-Before applying for naturalization, one must first apply to renounce their original nationality.
-Apply for a Taiwan Residency Card
-
-After successful naturalization, apply for a Taiwan area residency card.
-Apply for a Settlement Certificate
-
-After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate.
-Household Registration and National ID
-
-With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card.
-Naturalization Process for Foreign Spouses in Taiwan
-Step-by-Step Overview:
-
-#### Marriage Registration:
-
-First, complete the marriage registration at the local Household Registration Office to establish a legal marital relationship.
-Apply for a Residency Visa:
-
-Foreign spouses can apply for a long-term residency visa for family reunion purposes.
-Apply for a Foreign Resident Certificate:
-
-After legally residing in Taiwan and meeting the residency qualifications, apply at the local service stations of the National Immigration Agency.
-Legal Residence of 3 Years:
-
-After legally residing for at least 183 days each year, one can apply for naturalization at the Household Registration Office.
-Apply for Naturalization Proof and Renounce Original Nationality:
-
-Before applying for naturalization, one must first apply to renounce their original nationality.
-Apply for a Taiwan Residency Card:
-
-After successful naturalization, apply for a Taiwan area residency card.
-Apply for a Settlement Certificate:
-
-After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate.
-Household Registration and National ID:
-
-With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card.
-
-
-
-
-
+| Step | Description |
+|------|-------------|
+| **Register Marriage** | Complete the marriage registration at the local Household Registration Office to establish a legal marital relationship. |
+| **Apply for a Residency Visa** | Foreign spouses can apply for a long-term residency visa for family reunion purposes. |
+| **Apply for a Foreign Resident Certificate** | After legally residing in Taiwan and meeting the residency qualifications, apply at the local service stations of the National Immigration Agency. |
+| **Legal Residence of 3 Years** | After legally residing for at least 183 days each year, one can apply for naturalization at the Household Registration Office. |
+| **Apply for Naturalization Proof and Renounce Original Nationality** | Before applying for naturalization, one must first apply to renounce their original nationality. |
+| **Apply for a Taiwan Residency Card** | After successful naturalization, apply for a Taiwan area residency card. |
+| **Apply for a Settlement Certificate** | After meeting certain conditions such as residing continuously for 1 year, or residing for 2 years with at least 270 days each year, one can apply for a settlement certificate. |
+| **Household Registration and National ID** | With a settlement certificate, proceed to register a new household at the Household Registration Office and apply for a national ID card. |
 
 
 
