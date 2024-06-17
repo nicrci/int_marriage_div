@@ -268,15 +268,51 @@ Special thanks to Izz for the visual aids and support.
 
 ## References
 
+### Online Resource
+
+Here are the translated references, ordered by the number of strokes in the first author's surname according to the APA format:
+
+Chen, K., & Chang, T. (2022, December 31). 2023 Entry and exit quarantine regulations: “0+7” quick test rules, cancellation of saliva PCR screening for passengers from China... all in one read! Harper's BAZAAR. Retrieved from https://www.harpersbazaar.com/tw/beauty/bodyandhealth/g42365092/2023-quarantine-abroad/
+
 Economist. (2011, November 15). Integration vs. conflict: Do cross-border marriages last longer? CommonWealth Magazine. Retrieved from https://www.cw.com.tw/article/5027932
 
 Guo, Q. L. (2022, January 31). Taiwan's ethnic groups as one family 1: Passersby become locals! New residents and their children surpass one million, becoming the fourth largest ethnic group in the country. Wealth Magazine. Retrieved from https://www.wealth.com.tw/articles/9f4dae5a-aa5d-466e-a4dc-754bba352498
 
+KKday Editorial Team. (2022, October 3). Entry restrictions by country 2022: From 10/13, Taiwan implements “0+7” quarantine-free! Travel restrictions in Japan, Korea, Hong Kong, Europe, the US, and Southeast Asia. KKday Blog. Retrieved from https://www.kkday.com/zh-tw/blog/92436/global-covid19-entry-restrictions
+
+Lin, I. (2020, December 3). [Infographic] In 2020, fewer people got married in Taiwan, and fewer got divorced. The News Lens. Retrieved from https://www.thenewslens.com/article/144037
+
+Liu, L. (2022, March). 2022 Travel guide: See all the quarantine-free vaccination rules for different countries! FETnet. Retrieved from https://www.fetnet.net/content/cbu/tw/lifecircle/travel/2022/03/lift_restrictions.html
+
+Michelle. (2021, October 5). [Summary of entry and exit restrictions during the pandemic] Taiwan’s latest entry and exit regulations and flight information in 2021. Calling Taiwan. Retrieved from https://www.callingtaiwan.com.tw/%E3%80%90%E7%96%AB%E6%83%85%E5%87%BA%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6%E7%B8%BD%E6%95%B4%E7%90%86%E3%80%912021%E5%8F%B0%E7%81%A3%E6%9C%80%E6%96%B0%E5%87%BA%E5%85%A5%E5%A2%83%E8%A6%8F%E5%AE%9A/
+
+Press Release from Ministry of Health and Welfare. (2021-2023). Ministry of Health and Welfare. Retrieved from https://www.mohw.gov.tw/np-16-1.html
+
+Wu, S. Y. (2022, May 2). Pandemic blocks love! Cross-border marriages face difficulties, and the number of marriage registrations drops sharply. TVBS. Retrieved from https://www.tvbs.com.tw/
+
+Chenhuifangnccu. (2018, December 25). [Infographic] Observing new immigrants in Taiwan through data. Life Wanderer. Retrieved from https://stoi087163.wordpress.com/2018/12/25/taiwan-immigrant-data/
+
+Liu, Y. S. (2022, February 24). Southeast Asian immigrant workers: Stop calling them foreign brides! Taiwan’s new residents, new immigrants, and multiculturalism. CommonWealth Magazine. Retrieved from https://opinion.cw.com.tw/blog/profile/31/article/11972
+
+Li, W. X. (2024, May 3). Post-pandemic phenomenon! Taiwan’s cross-border marriage registrations increase by 77.6%, mostly from Southeast Asia. Zhiyin Foreign Marriage Association. Retrieved from https://www.zhiyin.com.tw/index.php?do=news&act=info&pid=0&id=85
+
+### Research
+
+Zeng, Z. X. (2021). Research on the current legal status and policy direction of cross-border marriage matchmaking organizations in Taiwan. National Immigration Agency, Ministry of the Interior.
+
 Halla, M., Liu, C. L., & Liu, J. T. (2019). The effect of superstition on health: Evidence from the Taiwanese Ghost month (No. w25474). National Bureau of Economic Research.
 
-Hieu, L. T. (2015). Confucian influences on Vietnamese culture. Vietnam Social Sciences, 5(169), 71-82.
+Yu-hsuan Su, Chi-Feng Cho, Jin-Tan Liu. (2024). Marital Stability of Transnational Couples and Chinese Bride Interview Policy: Evidence from Taiwan. Unpublished manuscript, Graduate Institute of Development Studies, National Chengchi University, Taipei, Taiwan.
 
 Jones, G., & Shen, H. H. (2008). International marriage in East and Southeast Asia: Trends and research emphases. Citizenship studies, 12(1), 9-25.
 
-Yu-hsuan Su, Chi-Feng Cho, Jin-Tan Liu. (2024). Marital Stability of Transnational Couples and Chinese Bride Interview Policy: Evidence from Taiwan. Unpublished manuscript, Graduate Institute of Development Studies, National Chengchi University, Taipei, Taiwan
+Hieu, L. T. (2015). Confucian influences on Vietnamese culture. Vietnam Social Sciences, 5(169), 71-82.
+
+### Data
+
+Department of Household Registration, Ministry of the Interior. (2020-2024). Number of divorces/terminated marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131137
+Department of Household Registration, Ministry of the Interior. (2020-2024). Number of marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131136
+
+
+
 
