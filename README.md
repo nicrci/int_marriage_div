@@ -19,7 +19,7 @@ We have conducted a thorough review of literature, data analysis, news and onlin
 
 In light of Taiwan's long-standing policies on international marriage, key nationalities involved, and social perceptions, we will also explore the trends and relationships of  international marriages between Taiwan and China and Southeast Asian countries. Additionally, we will examine stereotypes of foreign countries brides regarding Taiwanese men and foreign grooms regarding Taiwanese women. This analysis will enable us to observe significant changes in marriages and divorces involving people of different nationalities.
 
-To begin, download the raw data on marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform at https://data.gov.tw/dataset/32969. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
+To begin, download the raw data on divorce and marriage termination data from the Department of Household Registration available on the Open Government Data platform at https://data.gov.tw/dataset/131137, https://data.gov.tw/dataset/131136. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
 
 | Original column name | New column name | Description |
 | ------------- | ------------- | ------------- |
