@@ -15,7 +15,7 @@ Initially, we planned to analyze the marriage and marriage termination data from
 ## Getting Started
 Based on our research questions and data investigation, we have decided to examine data on international marriages and divorces in Taiwan from 2021 to 2023. Our aim is to analyze the overall landscape and trends of international marriages in Taiwan, as well as the cultural and economic factors influencing these trends. Additionally, we will look into the patterns of international marriages and divorces during and after the pandemic.
 
-We have conducted a thorough review of literature, data analysis, news and online information, and government records on immigration and international marriage policies from 2021 to 2023, as well as over the past 20 years (details in Appendices A and B). This review has helped us identify further research directions and contexts.
+We have conducted a thorough review of literature, data analysis, news and online information, and government records on immigration and international marriage policies from 2021 to 2023, as well as over the past 40 years (details in Appendices A and B). This review has helped us identify further research directions and contexts.
 
 In light of Taiwan's long-standing policies on international marriage, key nationalities involved, and social perceptions, we will also explore the trends and relationships of  international marriages between Taiwan and China and Southeast Asian countries. Additionally, we will examine stereotypes of foreign countries brides regarding Taiwanese men and foreign grooms regarding Taiwanese women. This analysis will enable us to observe significant changes in marriages and divorces involving people of different nationalities.
 
