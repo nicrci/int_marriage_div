@@ -304,6 +304,13 @@ Jones, G., & Shen, H. H. (2008). International marriage in East and Southeast As
 
 Hieu, L. T. (2015). Confucian influences on Vietnamese culture. Vietnam Social Sciences, 5(169), 71-82.
 
+Wang, H.-R., & Zhang, S.-M. (2003). The Commodification of the Taiwan-Vietnam Transnational Marriage Market. Taiwan Sociology, (6), 177-221. https://doi.org/10.6676/TS.2003.6.177
+
+Hsia, H.-C. (2000). International Marriages under Capital Internationalization: The Case of “Foreign Brides” in Taiwan. Taiwan: A Radical Quarterly in Social Studies, (39), 45-92. https://doi.org/10.29816/TARQSS.200009.0002
+
+Wang, H.-R. (2001). Marriage Migration and the Domestic Labor Market under Social Stratification: The Case of Vietnamese Brides. Taiwan: A Radical Quarterly in Social Studies, (41), 99-127. https://doi.org/10.29816/TARQSS.200103.0003
+
+
 ### Data
 
 Department of Household Registration, Ministry of the Interior. (2020-2024). Number of divorces/terminated marriages by type of marriage and nationality of both parties (Version varies) [2021.1-2023.12]. Retrieved from https://data.gov.tw/dataset/131137
