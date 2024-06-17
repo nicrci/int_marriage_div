@@ -12,11 +12,14 @@ In this study, we aim to explore the evolving landscape and trends of internatio
 
 Initially, we planned to analyze the marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform. However, this database consists of two separate monthly files for marriages and marriage terminations. Each file contains conditional data rather than personal data, with information subdivided to the le level in each city and county, as well as various nationalities with three years. This resulted in an excessively large volume of data, including many irrelevant observations. Consequently, we modified our analysis approach to focus on data cleaning and valid observations, concentrating primarily on the major nationalities.
 
-## Getting Started (data source, original data evaluation(what each col and data obs means), what we plan to do)
+## Getting Started
+Based on our research questions and data investigation, we have decided to examine data on international marriages and divorces in Taiwan from 2021 to 2023. Our aim is to analyze the overall landscape and trends of international marriages in Taiwan, as well as the cultural and economic factors influencing these trends. Additionally, we will look into the patterns of international marriages and divorces during and after the pandemic.
 
-Based on our research questions, we have decided to examine data on international marriages and divorces in Taiwan from 2021 to 2023. Our aim is to analyze Taiwanese marriage trends, beliefs regarding national holidays and cultural periods, and marriage and divorce patterns during and after the pandemic. Additionally, we will explore the relationship between Taiwan and China, stereotypes of foreign brides regarding Taiwanese men, and stereotypes of foreign grooms regarding Taiwanese women. This analysis will allow us to observe significant changes in the numbers of marriages and divorces in Taiwan involving people of different nationalities.
+We have conducted a thorough review of literature, data analysis, news and online information, and government records on immigration and international marriage policies from 2021 to 2023, as well as over the past 20 years (details in Appendices A and B). This review has helped us identify further research directions and contexts.
 
-To begin, download the raw data on divorce and marriage for the Taiwanese years 110-112 from the Taiwanese government platform at https://data.gov.tw/dataset/32969. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
+In light of Taiwan's long-standing policies on international marriage, key nationalities involved, and social perceptions, we will also explore the trends and relationships of  international marriages between Taiwan and China and Southeast Asian countries. Additionally, we will examine stereotypes of foreign countries brides regarding Taiwanese men and foreign grooms regarding Taiwanese women. This analysis will enable us to observe significant changes in marriages and divorces involving people of different nationalities.
+
+To begin, download the raw data on marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform at https://data.gov.tw/dataset/32969. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
 
 | Original column name | New column name | Description |
 | ------------- | ------------- | ------------- |
@@ -41,7 +44,7 @@ install.packages(tidyr)       # For tidying data
 install.packages(stringr)     # For string manipulation
 install.packages(scales)      # For scaling and formatting data for visualization
 ```
-Due to the large size of the raw data and its use of Traditional Chinese, data cleaning is necessary. This involves removing data from certain small cities, islands, and specific nationalities that are not needed.
+Due to the large size of the raw data and its use of Traditional Chinese, data cleaning is necessary. This involves removing data from certain small cities, islands, and specific nationalities that are not needed (the detailed method is under section Data Cleaning and Methodology).
 
 The eliminated nationalities are :
 
@@ -73,29 +76,29 @@ The eliminated cities are :
 | 澎湖縣望安鄉 | Wang'an Township, Penghu County |
 | 澎湖縣西嶼鄉 | Xiyu Township, Penghu County |
 
-Finally, translate all the data contained in each file from Traditional Chinese to English for greater convenience and usability.
+Finally, translate all the data contained in each file from Traditional Chinese to English for greater convenience and usability (the detailed method is under section Data Cleaning and Methodology).
 
 ## File Structure (data cleaning and what does data means, each cols obs and how to are going to use them)
 
 ```
 📦 Project
-├─ Data Cleaning
+├─ Raw Data
 │  ├─ 2021
-│  │  ├─ marriage_2021.csv
-│  │  └─ divorce_2021.csv
+│  │  ├─ marriage_2021 folder (opendata11001M051.csv - opendata11012M051.csv)
+│  │  └─ divorce_2021 folder (opendata11001M061.csv - opendata11012M061.csv)
 │  ├─ 2022
-│  │  ├─ marriage_2022.csv
-│  │  └─ divorce_2022.csv
+│  │  ├─ marriage_2022 folder (opendata11101M051.csv - opendata11112M051.csv)
+│  │  └─ divorce_2022 folder (opendata11201M061.csv - opendata11112M061.csv)
 │  └─ 2023
-│     ├─ marriage_2023.csv
-│     └─ divorce_2023.csv
-├─ Merged Data
-│  ├─ mix_2021.csv
-│  ├─ mix_2022.csv
-│  ├─ mix_2023.csv
-│  └─ mix_all_year.csv
-└─ Data Visualization
-   └─ Finally_done.R
+│     ├─ marriage_2023 folder (opendata11201M051.csv - opendata11212M051.csv)
+│     └─ divorce_2023 folder (opendata11201M061.csv - opendata11212M061.csv)
+├─ Data Cleaning and Merge
+│  ├─ DataCleaning_divorce_marriage_2021.R
+│  ├─ DataCleaning_divorce_marriage_2022.R
+│  ├─ DataCleaning_divorce_marriage_2023.R
+│  └─ mix_110_112_all.csv
+└─ Data Merge and Visualization
+   └─ Datamerge_visulization_2021_2023.R
 ```
 ©generated by [Project Tree Generator](https://woochanleee.github.io/project-tree-generator)
 
