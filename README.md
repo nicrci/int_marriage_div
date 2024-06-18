@@ -4,20 +4,20 @@
 
 Over time, Taiwan's demographic landscape has shifted significantly with the addition of 570,000 new immigrants, including migrant workers and international marriages (Guo, 2022). Taiwan once had the highest rate of international marriage in Asia, comprising nearly 15.9% of all marriages (Economist, 2022). International marriages are crucial to Taiwan's demographic landscape. However, the trends in international marriages have been seldom discussed in recent years, particularly after the pandemic.
 
-In this study, we aim to explore the evolving landscape and trends of international marriages in Taiwan post-pandemic. Specifically, our objectives are to better understand the key nationalities within International marriages in Taiwan, their marriage and divorce trends over years, and the gender dynamic within each nationality. We will incorporate the environmental and cultural factors of each nationality and consider policy contexts in our research. This study seeks to provide valuable insights for Taiwan's international marriage policy by addressing the following questions:
+In this study, we aim to explore the evolving landscape and trends of international marriages in Taiwan post-pandemic. Specifically, our objectives are to better understand the key nationalities within International marriages in Taiwan, their marriage and divorce trends over the years, and the gender dynamic within each nationality. We will incorporate the environmental and cultural factors of each nationality and consider policy contexts in our research. This study seeks to provide valuable insights into Taiwan's international marriage policy by addressing the following questions:
 
 1. What is the overall landscape of international marriages in Taiwan?
 2. What are the gender dynamics of international marriages between major nationalities?
 3. What are the trends of international marriages among different nationalities in the post-pandemic years?
 
-Initially, we planned to analyze the marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform. However, this database consists of two separate monthly files for marriages and marriage terminations. Each file contains conditional data rather than personal data, with information subdivided to the le level in each city and county, as well as various nationalities with three years. This resulted in an excessively large volume of data, including many irrelevant observations. Consequently, we modified our analysis approach to focus on data cleaning and valid observations, concentrating primarily on the major nationalities.
+Initially, we planned to analyze the marriage and marriage termination data from the Department of Household Registration available on the Open Government Data platform. However, this database consists of two separate monthly files for marriages and marriage terminations. Each file contains conditional data rather than personal data, with information subdivided to the le level in each city and county, as well as various nationalities within three years. This resulted in an excessively large volume of data, including many irrelevant observations. Consequently, we modified our analysis approach to focus on data cleaning and valid observations, concentrating primarily on the major nationalities.
 
 ## Getting Started
 Based on our research questions and data investigation, we have decided to examine data on international marriages and divorces in Taiwan from 2021 to 2023. Our aim is to analyze the overall landscape and trends of international marriages in Taiwan, as well as the cultural and economic factors influencing these trends. Additionally, we will look into the patterns of international marriages and divorces during and after the pandemic.
 
 We have conducted a thorough review of literature, data analysis, news and online information, and government records on immigration and international marriage policies from 2021 to 2023, as well as over the past 40 years (details in Appendices A and B). This review has helped us identify further research directions and contexts.
 
-In light of Taiwan's long-standing policies on international marriage, key nationalities involved, and social perceptions, we will also explore the trends and relationships of  international marriages between Taiwan and China and Southeast Asian countries. Additionally, we will examine stereotypes of foreign countries brides regarding Taiwanese men and foreign grooms regarding Taiwanese women. This analysis will enable us to observe significant changes in marriages and divorces involving people of different nationalities.
+In light of Taiwan's long-standing policies on international marriage, key nationalities involved, and social perceptions, we will also explore the trends and relationships of international marriages between Taiwan, China, and Southeast Asian countries. Additionally, we will examine stereotypes of foreign countries' brides regarding Taiwanese men and foreign grooms regarding Taiwanese women. This analysis will enable us to observe significant changes in marriages and divorces involving people of different nationalities.
 
 To begin, download the raw data on divorce and marriage termination data from the Department of Household Registration available on the Open Government Data platform at https://data.gov.tw/dataset/131137, https://data.gov.tw/dataset/131136. They are .csv files. Each files contains column name and we changed it for a better understanding as below.
 
@@ -128,17 +128,17 @@ Through these steps, we successfully cleaned and processed the data, extracting 
 
 1. Marriage and Divorce Count by Nationality Group (Including Taiwan)
 
-We use the dual-axis line charts display the marriage and divorce counts for different nationality groups, including Taiwan, over the months from January 2021 to December 2023. The main axis shows the counts for non-Taiwanese groups, while a secondary axis scales the counts for Taiwanese. The chart helps us illustrates the trends in marriage and divorce counts across different nationality groups, providing a comparative view between Taiwanese and non-Taiwanese marriage and divorce patterns.
+We use the dual-axis line charts to display the marriage and divorce counts for different nationality groups, including Taiwan, over the months from January 2021 to December 2023. The main axis shows the counts for non-Taiwanese groups, while a secondary axis scales the counts for Taiwanese. The chart helps us illustrate the trends in marriage and divorce counts across different nationality groups, providing a comparative view between Taiwanese and non-Taiwanese marriage and divorce patterns.
 
 Calculation Methods:
 - Filtered and grouped the data by year, month, and nationality group.
 - Summed the marriage and divorce counts for each group.
-- Created a dual-axis plot with the total marriage counts for non-Taiwanese groups on one axis and scaled marriage counts for Taiwanese on the secondary axis(reduced by 20 times for better review) .
+- Created a dual-axis plot with the total marriage counts for non-Taiwanese groups on one axis and scaled marriage counts for Taiwanese on the secondary axis(reduced by 20 times for better review).
 
 
 2. The Divorce and Marriage Ratio of Different Nationalities in Taiwan's international marriage 
 
-we use two pie charts displays the proportions of divorces and marriage among different nationalities, excluding Taiwanese, in Taiwan. Each segment represents a nationality, and its size indicates the proportion of divorces within that group compared to the total divorces among all non-Taiwanese nationalities. these two plots provides a clear visual representation of the distribution of divorces and marriages among different nationalities in Taiwan. They identifies the nationalities with higher proportions of marriages and  highlights the nationalities with higher proportions of divorces and offers insights into the marital stability of various non-Taiwanese groups and the popularity and prevalence of marriages among various non-Taiwanese groups.
+We use two pie charts to display the proportions of divorces and marriages among different nationalities, excluding Taiwanese, in Taiwan. Each segment represents a nationality, and its size indicates the proportion of divorces within that group compared to the total divorces among all non-Taiwanese nationalities. these two plots provide a clear visual representation of the distribution of divorces and marriages among different nationalities in Taiwan. They identify the nationalities with higher proportions of marriages highlight the nationalities with higher proportions of divorces and offer insights into the marital stability of various non-Taiwanese groups and the popularity and prevalence of marriages among various non-Taiwanese groups.
 
 Calculation Methods:
 
@@ -152,18 +152,18 @@ Calculation Methods:
 
 3. Divorce Gender Ratio by Nationality (Calculated by Marriage Count)
  
-we use the horizontal bar chart displays the gender ratio of divorces by nationality, normalized by the marriage count. It shows the proportion of divorces by gender for each nationality and reveals gender-specific divorce patterns among major nationalities, normalized by marriage counts to provide a balanced view of gender disparities in divorce rates.
+We use the horizontal bar chart to display the gender ratio of divorces by nationality, normalized by the marriage count. It shows the proportion of divorces by gender for each nationality and reveals gender-specific divorce patterns among major nationalities, normalized by marriage counts to provide a balanced view of gender disparities in divorce rates.
 
 Calculation Methods:
 
-Filtered the dataset to include seven major nationalities.
-Grouped the data by nationality and sex, summing the divorce and marriage counts.
-Calculated the divorce proportion relative to the marriage count for normalization.
-Created a horizontal bar chart with proportions, showing the gender ratio of divorces.
+- Filtered the dataset to include seven major nationalities.
+- Grouped the data by nationality and sex, summing the divorce and marriage counts.
+- Calculated the divorce proportion relative to the marriage count for normalization.
+- Created a horizontal bar chart with proportions, showing the gender ratio of divorces.
 
 4. Marriage Gender Ratio by Nationality
 
-We use the  horizontal bar chart illustrates the gender ratio of marriages by nationality, focusing on seven major nationalities. The chart shows the proportion of marriages by gender for each nationality and highlights the gender distribution of marriages among major nationalities, providing insights into cultural and social factors influencing marriage practices.
+We use the horizontal bar chart to illustrate the gender ratio of marriages by nationality, focusing on seven major nationalities. The chart shows the proportion of marriages by gender for each nationality and highlights the gender distribution of marriages among major nationalities, providing insights into cultural and social factors influencing marriage practices.
 
 Calculation Methods:
 
@@ -174,11 +174,11 @@ Calculation Methods:
 
 5. Average Marriage and Divorce Rate Distrubution Map (2021-2023)
 
-we use two choropleth maps shows the average marriage rate and divorce rate by city in Taiwan over three years (2021 to 2023). The color gradient indicates the marriage and divorce rate, with darker shades representing higher rates. The maps provide a visual representation of marriage and divorce rates across different cities in Taiwan, highlighting regional variations and identifying areas with higher or lower rates.
+We use two choropleth maps to show the average marriage rate and divorce rate by city in Taiwan over three years (2021 to 2023). The color gradient indicates the marriage and divorce rate, with darker shades representing higher rates. The maps provide a visual representation of marriage and divorce rates across different cities in Taiwan, highlighting regional variations and identifying areas with higher or lower rates.
 
 Calculation Methods:
 
-- Aggregated marriage and divorce counts and population data by city and average of three years.
+- Aggregated marriage and divorce counts and population data by city and an average of three years.
 - Calculated the marriage and divorce rate as a percentage of the population.
 - Computed the three-year average marriage and divorce rate for each city.
 - Merged the data with geographical map data of Taiwan and created choropleth maps.
@@ -209,7 +209,7 @@ On the other hand, the divorce ratio graph shows the top six countries with the 
 
  ### 2 What are the gender dynamics of international marriages between major nationalities?
 
- After gaining a deeper understanding of the key nationalities and geographic distribution of international marriages in Taiwan, this study further examines the gender ratios in marriages and divorces among the top six nationalities. Additionally, data for Taiwanese nationals is included as a control group. This analysis allows for a more comprehensive understanding of the gender dynamics among the main nationalities in international marriages in Taiwan and the stability of these marriages between foreign nationals and Taiwanese citizens.
+After gaining a deeper understanding of the key nationalities and geographic distribution of international marriages in Taiwan, this study further examines the gender ratios in marriages and divorces among the top six nationalities. Additionally, data for Taiwanese nationals is included as a control group. This analysis allows for a more comprehensive understanding of the gender dynamics among the main nationalities in international marriages in Taiwan and the stability of these marriages between foreign nationals and Taiwanese citizens.
 
 Since the data used in this study is conditional rather than personal, to better analyze the gender dynamics in marriage and divorce among the main nationalities, the divorce rates are calculated based on the number of marriages for each nationality's gender. The results are illustrated in Figures 5 and 6.
 
@@ -234,11 +234,11 @@ In Figures 8, divorces with Southeast Asian countries and China show a slight up
 
 ## Results: The Dynamics of International Marriages and Divorces in Taiwan: Gender Imbalances, Socio-Economic Challenges, and Post-Pandemic Trends
 
-The marriage ratio graph reveals that the top six countries for marriages with Taiwanese nationals are China (1.17%), Vietnam (1.42%), Hong Kong and Macao (0.51%), the United States (0.35%), Japan (0.29%), and Malaysia (0.25%). On the other hands, divorce ratio graph shows the top 6 countries that have the most divorce rate which are China (3.25%), Vietnam (2.26%), Indonesia (0.29%), Hong Kong and Macao (0.24%), Japan (0.2%), and Thailand (0.2%). 
+The marriage ratio graph reveals that the top six countries for marriages with Taiwanese nationals are China (1.17%), Vietnam (1.42%), Hong Kong and Macao (0.51%), the United States (0.35%), Japan (0.29%), and Malaysia (0.25%). On the other hand, the divorce ratio graph shows the top 6 countries that have the highest divorce rate which are China (3.25%), Vietnam (2.26%), Indonesia (0.29%), Hong Kong and Macao (0.24%), Japan (0.2%), and Thailand (0.2%). 
 
-A significant insight that this project has provided has a lot to do with gender imbalances and socio-economic challenges, which has been found to be largely due to hypergamy and hypogamy (Su et al, 2024). In the light of hypergamy, Japanese and U.S. marriages involve more men than women who are married to Taiwanese women. We can also see the influence of hypogamy among Vietnamese and Chinese female nationals who are married with Taiwanese males.
+A significant insight that this project has provided has a lot to do with gender imbalances and socio-economic challenges, which has been found to be largely due to hypergamy and hypogamy (Su et al, 2024). In the light of hypergamy, Japanese and U.S. marriages involve more men than women who are married to Taiwanese women. We can also see the influence of hypogamy among Vietnamese and Chinese female nationals who are married to Taiwanese males.
 
-This project has also provided insights in regards to border policy differences. International marriages, driven by historical and economic ties, increased post-pandemic as travel resumed, but divorce rates also rose due to lockdown stress. This has been noted to be suppressed marriages and divorces (Su et al, 2024)
+This project has also provided insights in regard to border policy differences. International marriages, driven by historical and economic ties, increased post-pandemic as travel resumed, but divorce rates also rose due to lockdown stress. This has been noted to be suppressed marriages and divorces (Su et al, 2024)
 
 This project has provided insights regarding the marriage and divorce landscape in Taiwan, including its potential influencers such as urbanization, international migration, cultural beliefs, and socio-economic factors.
 
